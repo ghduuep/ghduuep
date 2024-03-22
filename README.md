@@ -2,7 +2,7 @@
 <h1>My name is Guilherme!</h1>
 
 <ul>I am currently a student of <b>Systems Analysis and Development</b> at FIAP.</ul>
-<ul>I am learning <b>Python</b>, with an emphasis on <b>back-end</b> development. I am also developing my <b>English</b> skills.</ul>
+<ul>I am learning <b>Java</b> and <b>Python</b>, with an emphasis on <b>back-end</b> development. I am also developing my <b>English</b> skills.</ul>
 <ul>I am interested in participating in <b>third-party projects</b>.</ul>
 <ul>You can contact me via email: <a href="mailto:ghduep@outlook.com"./>click here</ul>
 
